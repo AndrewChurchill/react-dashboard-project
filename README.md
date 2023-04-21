@@ -38,3 +38,9 @@ Miscellaneous
 - react-pro-sidebar
 - formik
 - yup
+
+## Fonts
+
+I imported the following fonts to make the project:
+
+- [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
