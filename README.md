@@ -6,16 +6,35 @@ I am creating this project to follow along with a [tutorial series](https://www.
 
 I added the following dependencies to set up the project:
 
-1. @mui/material
-2. @emotion/react
-3. @emotion/styled
-4. @mui/x-data-grid
-5. @mui/icons-material
-6. react-router-dom
-7. react-pro-sidebar
-8. formik
-9. yup
-10. @fullcalendar/core
-11. @fullcalendar/daygrid
-12. @fullcalendar/timegrid
-13. @fullcalendar/list
+Material UI
+
+- @mui/material
+- @mui/x-data-grid
+- @mui/icons-material
+
+Emotion
+
+- @emotion/react
+- @emotion/styled
+
+Full Calendar
+
+- @fullcalendar/core
+- @fullcalendar/daygrid
+- @fullcalendar/timegrid
+- @fullcalendar/list
+
+nvio
+
+- @nivo/core
+- @nivo/pie
+- @nivo/line
+- @nivo/bar
+- @nivo/geo
+
+Miscellaneous
+
+- react-router-dom
+- react-pro-sidebar
+- formik
+- yup
